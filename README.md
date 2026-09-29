@@ -1,5 +1,5 @@
 # 🌀 About Me:
-BTech CSE student with a growing focus on AI/ML and Cybersecurity. Building strong foundations in programming, problem-solving, and computer science through practical projects and continuous learning.BTech CSE student with a growing focus on AI/ML and Cybersecurity. Building strong foundations in programming, problem-solving, and computer science through practical projects and continuous learning.
+BTech CSE student with a growing focus on AI/ML and Software Development. Building strong foundations in programming, problem-solving, and computer science through practical projects and continuous learning.BTech CSE student with a growing focus on AI/ML and Cybersecurity. Building strong foundations in programming, problem-solving, and computer science through practical projects and continuous learning.
 
 
 ## 🌐 Socials:
