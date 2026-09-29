@@ -12,9 +12,10 @@ BTech CSE student with a growing focus on AI/ML and Software Development. Buildi
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Prince-V1&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Prince-V1&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+## 🏆 GitHub Trophies
 
----
-[![](https://komarev.com/ghpvc/?username=Prince-V1&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Prince-V1&theme=algolia&no-frame=true&no-bg=true&margin-w=5&row=1" />
+</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
