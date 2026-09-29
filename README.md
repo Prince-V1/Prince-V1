@@ -1,6 +1,5 @@
 # 🌀 About Me:
-BTech CSE student with a growing focus on AI/ML and Software Development. Building strong foundations in programming, problem-solving, and computer science through practical projects and continuous learning.BTech CSE student with a growing focus on AI/ML and Cybersecurity. Building strong foundations in programming, problem-solving, and computer science through practical projects and continuous learning.
-
+BTech CSE student with a growing focus on AI/ML and Software Development. Building strong foundations in programming, problem-solving, and computer science through practical projects and continuous learning.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/prnc.n3) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prince-vishwkarma-8bbb7340a) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prince.vishwkarma.t12@gmail.com) 
