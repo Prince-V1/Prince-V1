@@ -14,7 +14,6 @@ BTech CSE student with a growing focus on AI/ML and Software Development. Buildi
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Prince-V1&theme=algolia&no-frame=true&no-bg=true&margin-w=5&row=1" />
-</p>
+  <img src="https://github-profile-trophy.vercel.app/?username=Prince-V1&theme=algolia&no-frame=true&no-bg=true&margin-w=5&row=1" 
 
 
